@@ -1,0 +1,115 @@
+{
+  "posts": [
+    { "id": 1, "userId": 1, "title": "Post 1", "body": "Lorem eu sint proident pariatur consequat enim sunt commodo eiusmod cillum elit velit excepteur. Consectetur laboris aute ex ut cupidatat et reprehenderit elit. Aliqua pariatur nisi nisi pariatur eiusmod reprehenderit sit labore laboris amet laboris. Nisi esse enim irure et aliqua dolore nulla sint do veniam dolore voluptate esse. Tempor elit irure reprehenderit duis." },
+    { "id": 2, "userId": 2, "title": "Post 2", "body": "Labore consectetur proident officia id Lorem incididunt excepteur enim velit nostrud. Non sunt voluptate est cillum commodo veniam excepteur sit officia consequat irure et amet. Consectetur irure Lorem et aliqua veniam id nostrud et ex proident ipsum sunt laboris nulla." },
+    { "id": 3, "userId": 3, "title": "Post 3", "body": "Ex excepteur anim eiusmod cillum ut id irure incididunt. Lorem sint incididunt aliquip ex. Minim anim aliqua ullamco esse veniam nostrud pariatur voluptate nostrud pariatur. Occaecat aute consequat dolor commodo proident labore eiusmod ut pariatur minim." }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-692-6593 x09125"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "493-170-9623 x156"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "(254)954-1289"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "1-477-935-8478 x6430"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "210.067.6132"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "phone": "586.493.6943 x140"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "(775)976-6794 x41206"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "024-648-3804"
+    }
+  ],
+  "sliders": [
+    {
+      "id": 1,
+      "imgurl": "https://via.placeholder.com/600/92c952",
+      "title": "Titulo 1",
+      "text": "Dolore culpa officia laboris adipisicing aliqua adipisicing incididunt. Non mollit laborum deserunt sit. Proident duis nostrud deserunt excepteur cillum eu do sit incididunt non quis mollit aliquip."
+    },
+    {
+      "id": 2,
+      "imgurl": "https://via.placeholder.com/600/771796",
+      "title": "Titulo 2",
+      "text": "Dolore culpa officia laboris adipisicing aliqua adipisicing incididunt. Non mollit laborum deserunt sit. Proident duis nostrud deserunt excepteur cillum eu do sit incididunt non quis mollit aliquip."
+    },
+    {
+      "id": 3,
+      "imgurl": "https://via.placeholder.com/600/24f355",
+      "title": "Titulo 3",
+      "text": "Dolore culpa officia laboris adipisicing aliqua adipisicing incididunt. Non mollit laborum deserunt sit. Proident duis nostrud deserunt excepteur cillum eu do sit incididunt non quis mollit aliquip."
+    },
+    {
+      "id": 4,
+      "imgurl": "https://via.placeholder.com/600/d32776",
+      "title": "Titulo 4",
+      "text": "Dolore culpa officia laboris adipisicing aliqua adipisicing incididunt. Non mollit laborum deserunt sit. Proident duis nostrud deserunt excepteur cillum eu do sit incididunt non quis mollit aliquip."
+    },
+    {
+      "id": 5,
+      "imgurl": "https://via.placeholder.com/600/f66b97",
+      "title": "Titulo 5",
+      "text": "Dolore culpa officia laboris adipisicing aliqua adipisicing incididunt. Non mollit laborum deserunt sit. Proident duis nostrud deserunt excepteur cillum eu do sit incididunt non quis mollit aliquip."
+    }
+  ]
+}
